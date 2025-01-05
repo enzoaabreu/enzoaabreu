@@ -9,18 +9,6 @@ Me chamo Enzo Augusto, tenho 17 anos e sou de Goiânia. Conclui o ensino médio 
 - 🤔 Busco conhecimento na área de programação
 - 📫 Contate-me no email: enzoguto3@gmail.com
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=enzoaabreu&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=enzoaabreu&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
 ##
 
 🤖 Linguagens e Tecnologias
@@ -41,3 +29,22 @@ Me chamo Enzo Augusto, tenho 17 anos e sou de Goiânia. Conclui o ensino médio 
   <a href="https://www.linkedin.com/in/enzo-abreu-9b1124246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+### 📊 Estatísticas
+
+<p style="display: flex">
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=enzoaabreu&show_icons=true&theme=dark&locale=pt-br" 
+  />
+
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoaabreu&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7" 
+  />
+</p>
