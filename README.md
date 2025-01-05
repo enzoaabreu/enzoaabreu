@@ -1,6 +1,8 @@
-## Ola! Eu sou Enzo Abreu
+## 🧑🏽‍💻 Ola! Eu sou Enzo Augusto
 
+**`Desenvolvedor Front-end`**
 
+Me chamo Enzo Augusto, tenho 17 anos e sou de Goiânia. Conclui o ensino médio na EFG, com o curso de Desenvolvimento web e Cybersecurity. Atualmente busco aprender mais sobre a ferramenta REACT para melhorar meus projetos e me tornar um Desenvolvedor FullStack. Sou apaixonado por tecnologia e vivo em busca de conhecimento e desafios na área da tecnologia.
 
 - 🔭 Trabalho com Front-end
 - 🌱 Estudando REACT
